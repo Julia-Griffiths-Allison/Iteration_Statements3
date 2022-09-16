@@ -1,0 +1,15 @@
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.exe
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\refint\MethodsWithLoopsAndConditionals.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\MethodsWithLoopsAndConditionals\obj\Debug\net6.0\ref\MethodsWithLoopsAndConditionals.dll
